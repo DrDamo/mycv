@@ -1,0 +1,50 @@
+  	body {
+  		font-family: Arial;
+      background-color: #eee;
+  		font-size: 15px;
+  		line-height: 21px;
+  	}
+
+  	article {
+  		width: 600px;
+  		background: #fff;
+      position: relative;
+      margin: 0px auto;
+  		border-radius: 5px;
+  		padding:20px;
+      box-shadow: 5px 5px 5px #333;
+  	}
+
+header img {
+  position: relative;
+  float: right;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+h3 {
+  font-size: 14px;
+}
+
+address {
+  position: relative;
+  float: left;
+  font-style: normal;
+  margin: 20px 5px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.clearfix { 
+   clear: both;
+}
