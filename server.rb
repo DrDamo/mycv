@@ -7,5 +7,5 @@ get '/hello' do
 end
 
 get '/' do
-	erb :index
+	haml :index
 end
